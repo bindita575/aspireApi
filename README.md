@@ -15,3 +15,6 @@ run "php artisan serve" to start the server after that we can access the project
 
 
 ##After INstallation you can use APIs
+##Admin credencials
+admin@gmail.com
+password 12345678
